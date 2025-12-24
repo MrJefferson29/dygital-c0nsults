@@ -31,7 +31,10 @@ export interface InputProps {
 }
 
 export interface validateProps {
-  name: string;
-  message: string;
-  email: string;
+  name?: string;
+  email?: string;
+  whatsapp?: string;
+  interestedField?: string;
+  literacy?: string;
+  message?: string;
 }

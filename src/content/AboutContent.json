@@ -1,15 +1,15 @@
 {
-  "title": "Light, fast & responsive",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "title": "Built for Performance. Designed for Learning.",
+  "text": "Our solutions are crafted with modern frameworks and best practices, ensuring fast, responsive products while providing interns with real-world development experience.",
   "section": [
     {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
+      "title": "Industry-Driven Training",
+      "content": "Interns work on live projects using the same tools and workflows used in professional software teams.",
       "icon": "notes.svg"
     },
     {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
+      "title": "Production-Ready Solutions",
+      "content": "Every application we build follows scalable architecture and clean code principles, making it reliable, secure, and future-proof.",
       "icon": "notes.svg"
     }
   ]
